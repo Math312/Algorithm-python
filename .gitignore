@@ -1,0 +1,6 @@
+*.pyc
+.idea
+/venv
+.idea/workspace.xml
+.idea/misc.xml
+.idea/leetcode.iml
